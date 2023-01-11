@@ -1,4 +1,4 @@
-# Phil.md
+# Philippa.md
 
 ## Motivation for this Document
 
